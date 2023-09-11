@@ -1,0 +1,43 @@
+.NewsSubs{
+    margin: 120px 0px;
+}
+.newsletter {
+    background: #17bf9e;
+    padding: 60px;
+    border-radius: 15px;
+    width: 80%;
+    margin: auto;
+  }
+  
+  .newsletter h2 {
+    color: #fff;
+    text-align: center;
+  }
+  .subscribe input {
+    border: none;
+    outline: none;
+    height: 30px;
+    padding-left: 20px;
+    font-size: 15px;
+  }
+  
+  .subscribe {
+    padding: 7px 10px;
+    background: #fff;
+    width: 45%;
+    margin: 30px auto;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .subscribe .btn{
+    background-color: white;
+    color: grey;
+    border: 0px;
+    font-size: 15px;
+  }
+  .btn:hover{
+    cursor: pointer;
+  }
+  
